@@ -7,7 +7,7 @@ Script tự động cài đặt v2ray server dùng để hack băng thông các 
 - Sau khi chạy xong sẽ hiển thị thông tin, copy và dán vào v2ray
 - Cài đặt:
 ```console  
- curl -skLO https://raw.githubusercontent.com/hunganhprox/v2ray-4g/main/setup-v2ray.sh && sudo bash setup-v2ray.sh
+ curl -skLO https://raw.githubusercontent.com/k4t3pr0/V2Ray-VMess-Server/main/setup-v2ray.sh
  
  ```
  - Gỡ cài đặt:
